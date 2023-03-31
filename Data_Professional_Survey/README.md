@@ -1,6 +1,6 @@
 # Data Professional Survey Breakdown
 
-## According to the recent survey among the professionals working in Data Industry, following inferences have been drawn :
+### According to the recent survey among the professionals working in Data Industry, following inferences have been drawn
 
 * Total Survey takers among Data Professionals are 630 and the average age among them is 29.87.
 * Most of the survey takers are from US and are Data Analysts by profession.

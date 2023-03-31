@@ -30,27 +30,24 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 * Attrition rate in R&D department and people coming from Life Science field is high.
 * Attrition rate is highest among Male.
 
-
-#### Author
-
-- [@PreetyManna11](https://github.com/PreetyManna11)
-
-
-#### Hi, I'm Preety! 👋
-
-
-#### 🚀 About Me
-I have completed my graduation from SRM, Chennai and now I am working as a Software Engineer at Cognizant. I have a keen interest in the field of Data Analytics and look forward to enhance my knowledge in the same. 
-
-
 #### 🛠 Tools required for the Project
 MS Power BI, MS Excel, CSV file
-
-
-#### 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preety-manna-687a73194/) 
 
 
 ### HR Analytics Dashboard
 
 ![HR_Analytics](https://user-images.githubusercontent.com/61684282/229077453-0935fa09-54b1-4fa2-b00c-4837f7d31616.png)
+
+#### Author
+- [@PreetyManna11](https://github.com/PreetyManna11)
+
+
+#### Hi, I'm Preety! 👋
+
+#### 🚀 About Me
+I have completed my graduation from SRM, Chennai and now I am working as a Software Engineer at Cognizant. I have a keen interest in the field of Data Analytics so I am working on some projects with real time data to enhance my skills and knowledge.
+
+#### 🔗 Links to connect with Author
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preety-manna-687a73194/) 
+
+

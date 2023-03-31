@@ -52,7 +52,7 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 ### Hi, I'm Preety! 👋
 
 ### 🚀 About Me
-I have completed my graduation from SRM, Chennai and now I am working as a Software Engineer at Cognizant. I have a keen interest in the field of Data Analytics so I am working on some projects with real time data to enhance my skills and knowledge.
+I have completed my graduation from SRM University, Chennai and now I am working as a Software Engineer at Cognizant. I have a keen interest in the field of Data Analytics so I am working on some projects with real time data to enhance my skills and knowledge.
 
 ### 🔗 Links to connect with Author
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preety-manna-687a73194/) 

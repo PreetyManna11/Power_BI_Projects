@@ -31,7 +31,7 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 * Attrition rate is highest among Male.
 
 
-### Author
+#### Author
 
 - [@PreetyManna11](https://github.com/PreetyManna11)
 
@@ -47,7 +47,7 @@ I have completed my graduation from SRM, Chennai and now I am working as a Softw
 MS Power BI, MS Excel, CSV file
 
 
-### 🔗 Links
+#### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preety-manna-687a73194/) 
 
 

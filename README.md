@@ -5,12 +5,15 @@ Attrition rate is a very useful & essential metric which showcase how many emplo
 * This dataset contains a csv table with 1,470 records which is the total strength of the employees.
 * Each record contains information related to the employee working in XYZ company such as Employee ID, Department, Attrition, Education Field, Salary Slab, Age Group, Years spent at XYZ company and so on.
 
-#### Key Objective for HR Analytics Dashboard :
+#### Key Objective for HR Analytics Dashboard
 
 * Identifying Key Factors affecting people leaving the company to reduce attrition.
 
 
-#### Data Processing :
+#### 🛠 Tools required for the Project
+MS Power BI, MS Excel, CSV file
+
+#### Data Processing
 
 Data Cleaning and Data Manipulation has been done in order to remove the unwanted data.
 
@@ -21,7 +24,7 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 * Detected the Data Type for all the columns in order to correct the Data Type.
 
 
-#### Key Insights drawn from HR Analytics Dashboard which leads to Attrition :
+#### Key Insights drawn from HR Analytics Dashboard which leads to Attrition
 
 * Total count of employees in the company is 1470 and it was analysed that 237 people left which has caused 16.1% attrition rate in the company.
 * Average Age of people leaving XYZ company is 37 years with average salary is Rs 16.5k.
@@ -29,10 +32,6 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 * Laboratory Technician, Research Scientist & Sales Executive are the job roles which is facing highest number people leaving because of the job satisfaction.
 * Attrition rate in R&D department and people coming from Life Science field is high.
 * Attrition rate is highest among Male.
-
-#### 🛠 Tools required for the Project
-MS Power BI, MS Excel, CSV file
-
 
 ### HR Analytics Dashboard
 

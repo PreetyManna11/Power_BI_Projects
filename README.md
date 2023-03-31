@@ -5,15 +5,15 @@ Attrition rate is a very useful & essential metric which showcase how many emplo
 * This dataset contains a csv table with 1,470 records which is the total strength of the employees.
 * Each record contains information related to the employee working in XYZ company such as Employee ID, Department, Attrition, Education Field, Salary Slab, Age Group, Years spent at XYZ company and so on.
 
-#### Key Objective for HR Analytics Dashboard
+### Key Objective for HR Analytics Dashboard
 
 * Identifying Key Factors affecting people leaving the company to reduce attrition.
 
 
-#### 🛠 Tools required for the Project
+### 🛠 Tools required for the Project
 MS Power BI, MS Excel, CSV file
 
-#### Data Processing
+### Data Processing
 
 Data Cleaning and Data Manipulation has been done in order to remove the unwanted data.
 
@@ -24,7 +24,7 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 * Detected the Data Type for all the columns in order to correct the Data Type.
 
 
-#### Key Insights drawn from HR Analytics Dashboard which leads to Attrition
+### Key Insights drawn from HR Analytics Dashboard which leads to Attrition
 
 * Total count of employees in the company is 1470 and it was analysed that 237 people left which has caused 16.1% attrition rate in the company.
 * Average Age of people leaving XYZ company is 37 years with average salary is Rs 16.5k.
@@ -37,16 +37,16 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 
 ![HR_Analytics](https://user-images.githubusercontent.com/61684282/229077453-0935fa09-54b1-4fa2-b00c-4837f7d31616.png)
 
-#### Author
+### Author
 - [@PreetyManna11](https://github.com/PreetyManna11)
 
 
-#### Hi, I'm Preety! 👋
+### Hi, I'm Preety! 👋
 
-#### 🚀 About Me
+### 🚀 About Me
 I have completed my graduation from SRM, Chennai and now I am working as a Software Engineer at Cognizant. I have a keen interest in the field of Data Analytics so I am working on some projects with real time data to enhance my skills and knowledge.
 
-#### 🔗 Links to connect with Author
+### 🔗 Links to connect with Author
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preety-manna-687a73194/) 
 
 

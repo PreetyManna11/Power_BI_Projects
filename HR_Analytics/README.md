@@ -30,7 +30,7 @@ Data Cleaning and Data Manipulation has been done in order to remove the unwante
 
 
 
-### Key Insights drawn from HR Analytics Dashboard which leads to Attrition
+### Key Insights drawn which leads to Attrition from HR Analytics Dashboard 
 
 * Total count of employees in the company is 1470 and it was analysed that 237 people left which has caused 16.1% attrition rate in the company.
 * Average Age of people leaving XYZ company is 37 years with average salary is Rs 16.5k.

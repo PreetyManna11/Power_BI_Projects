@@ -21,9 +21,9 @@ MS Power BI, MS Excel, CSV file
 
 Data Cleaning and Data Manipulation has been done in order to remove the unwanted data.
 
-* Analysed the rows and columns. Removed the Years_with_current_manager was removed since no key insights were found using it.
+* Analysed the rows and columns. "Years with current manager" column was removed since no key insights were found using it.
 * Duplicated were being removed from all the columns.
-* Corrected the mispelled word "Travell Rarely" in Business Travel column.
+* Corrected the mispelled word "Travel Rarely" in Business Travel column.
 * A conditional column has been added to convert Attrition column texts from "Yes" or "No" to values 1 or 0 in order to sum up the column while visualizing.
 * Detected the Data Type for all the columns in order to correct the Data Type.
 

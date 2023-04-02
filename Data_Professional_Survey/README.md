@@ -1,6 +1,24 @@
-# Data Professional Survey Breakdown📝🗂️👨🏼‍💻
+## Data Professional Survey Breakdown📝🗂️👨🏼‍💻
 
-### According to the recent survey among the professionals working in Data Industry, following inferences have been drawn
+Data Professional Survey is basically a survey done for the professionals working in Data Industry in which they have been asked regarding their current role, yearly salary, Industry, whether they are happy or not with their current management, salary and so on. 
+
+* This dataset consist of Excel file with 630 records.
+* Each record describes an individual's Job Role, Salary, Industry and many more.
+
+### 🛠 Tools required for the Project
+MS Power BI, MS Excel
+
+### Data Processing
+
+Data Cleaning and Data Manipulation has been done in order to remove the unwanted data.
+
+* Analysed the rows and columns. "Years with current manager" column was removed since no key insights were found using it.
+* Duplicated were being removed from all the columns.
+* Corrected the mispelled word "Travel Rarely" in Business Travel column.
+* A conditional column has been added to convert Attrition column texts from "Yes" or "No" to values 1 or 0 in order to sum up the column while visualizing.
+* Detected the Data Type for all the columns in order to correct the Data Type.
+
+### Following inferences have been drawn
 
 * Total Survey takers among Data Professionals are 630 and the average age among them is 29.87.
 * Most of the survey takers are from US and are Data Analysts by profession.

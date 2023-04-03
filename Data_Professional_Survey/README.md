@@ -13,7 +13,6 @@ MS Power BI, MS Excel
 Data Cleaning and Data Manipulation has been done in order to remove the unwanted data.
 
 * Analysed the rows and columns. "Years with current manager" column was removed since no key insights were found using it.
-* Splitting 
 
 ### Following inferences have been drawn
 

@@ -3,7 +3,7 @@
 
 Attrition rate is a very useful & essential metric which showcase how many employees are leaving the company over a specific period of time. It's a KPI in HR department to monitor and improve their organisation's workforce planning and overall management. Staffturnover can have a negative impact on your comapny's performance. It also create a negative impression to your clients if the company's attrition rate keeps on increasing so controlling attrition is one of the most important stuff to do.
 
-* This dataset consist of a csv table with 1,470 records which is the total strength of the employees.
+* This dataset consist of a csv table with 1,481 records which is the total strength of the employees.
 * Each record contains information related to the employee working in XYZ company such as Employee ID, Department, Attrition, Education Field, Salary Slab, Age Group, Years spent at XYZ company and so on.
 
 

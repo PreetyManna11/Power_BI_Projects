@@ -8,12 +8,6 @@ Data Professional Survey is basically a survey done for the professionals workin
 ### 🛠 Tools required for the Project
 MS Power BI, MS Excel
 
-### Data Processing
-
-Data Cleaning and Data Manipulation has been done in order to remove the unwanted data.
-
-* Analysed the rows and columns. "Years with current manager" column was removed since no key insights were found using it.
-
 ### Following inferences have been drawn
 
 * Total Survey takers among Data Professionals are 630 and the average age among them is 29.87.
